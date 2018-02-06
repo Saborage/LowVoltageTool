@@ -1,6 +1,6 @@
 # LowVoltageTool
 ---------------------------------------------------------------
-**Low Voltage Tool** is the project Simon De Grève and me made for my Bachelor's thesis at Haute Ecole Louvain en Hainaut - Mons. This project is being built
+**Low Voltage Tool** is the project Simon De Grève and me made for our Bachelor's thesis at Haute Ecole Louvain en Hainaut - Mons. This project is being built
 under the watch of Electrical Engineering Service of Mons' Polytechnic Faculty (GELE). All the rights of the project are reserved to GELE.
 
 ## Overview

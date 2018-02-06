@@ -1,0 +1,5 @@
+#!c:\users\geniee~1\desktop\alexan~1\progra~1\lowvol~1\lowvol~1\scripts\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+

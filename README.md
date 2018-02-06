@@ -1,6 +1,6 @@
 # LowVoltageTool
 ---------------------------------------------------------------
-**Low Voltage Tool** is the project I made for my Bachelor's thesis at Haute Ecole Louvain en Hainaut - Mons. This project is being built
+**Low Voltage Tool** is the project Simon De Grève and me made for my Bachelor's thesis at Haute Ecole Louvain en Hainaut - Mons. This project is being built
 under the watch of Electrical Engineering Service of Mons' Polytechnic Faculty (GELE). All the rights of the project are reserved to GELE.
 
 ## Overview
@@ -9,11 +9,11 @@ under the watch of Electrical Engineering Service of Mons' Polytechnic Faculty (
 ### Libraries
 
 python==3.6.0
-anytree==2.0.0
-openpyxl==2.4.4
+anytree==2.4.3
+openpyxl==2.5.0
 wxPython==4.0.0b2
-numpy==1.13.1
-scipy==0.19.1
+numpy==1.14.0+mkl
+scipy==1.0.0
 
 Be careful that numpy, scipy and wxPython versions are subject to changes as those are still in development.
 
@@ -24,7 +24,6 @@ Be careful that numpy, scipy and wxPython versions are subject to changes as tho
 - [x] Build a basis for implementing a Graphical User Inteface
 - [ ] Finish the GUI
 
-See more on this [Trello](https://trello.com/b/EAq94Q1x/outil-basse-tension-gui)
 -----
 
 ### Contribute
